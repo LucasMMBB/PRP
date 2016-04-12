@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+   <Document>
+      <Style id="pathBoldRed">
+         <LineStyle>
+            <color>ffffff00</color>
+            <width>2</width>
+         </LineStyle>
+      </Style>
+      <Placemark>
+         <name>Local</name>
+         <description/>
+         <styleUrl>#pathBoldRed</styleUrl>
+         <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-83.2346,42.2936,50 -83.2325,42.2948,50 -83.2324,42.2949,50 -83.2306,42.2969,50 -83.2296,42.2983,50 -83.2294,42.2987,50 -83.2296,42.2983,50 -83.2306,42.2969,50 -83.2324,42.2949,50 -83.2325,42.2948,50 -83.2346,42.2936,50 -83.2381,42.2953,50 -83.2385,42.2947,50 -83.2404,42.2925,50 -83.2415,42.2912,50 -83.2417,42.2909,50 </coordinates>
+         </LineString>
+      </Placemark>
+   </Document>
+</kml><!--this is a comment-->
